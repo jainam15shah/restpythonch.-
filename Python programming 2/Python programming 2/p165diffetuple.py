@@ -1,0 +1,10 @@
+tuple1=(1,2,5,6)
+tuple2=('a','b',"c","d")
+tuple3=()
+tuple4=1,2,5,6
+tuple5=("london","usa","canada",2012,2020,2009)
+print(tuple1)
+print(tuple2)
+print(tuple3)
+print(tuple4)
+print(tuple5)

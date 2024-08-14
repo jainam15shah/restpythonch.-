@@ -1,0 +1,5 @@
+tupleD=(11,22,33,44,55,66,130)
+list1=list(tupleD)
+list1.insert(1,121)
+tupledD=tuple(list1)
+print(tupledD)

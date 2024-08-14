@@ -1,0 +1,10 @@
+l1=[11,22,33,44,55,66,77]
+print(l1[0])
+print(l1[0]+l1[-1])
+print(l1[0:5])
+print(l1[:7])
+print(l1[5:])
+print(l1[0:7:2])
+print(l1[0:7:3])
+print(l1[::3])
+print(l1[5:2])
